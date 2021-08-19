@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 -->
 I'm **gemilepus**
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=gemilepus&langs_count=10&layout=compact&hide=Java" alt="Github Readme Stats" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=gemilepus&langs_count=10&layout=compact&hide=JavaScript,SCSS,HTML,CSS" alt="Github Readme Stats" />
 </a>
