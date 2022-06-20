@@ -12,11 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2>My github profile stastictics.</h2>
+<h3 align="center">My github profile stastictics.</h2>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=gemilepus&langs_count=10&layout=compact&theme=dark&hide=SCSS,HTML,CSS" alt="Github Readme Stats" />
-</a>
+</a> -->
 
 <p align="center">
     <a href="https://github.com/gemilepus">
