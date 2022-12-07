@@ -26,6 +26,6 @@ Here are some ideas to get you started:
 
 <br>
 
-<a href="https://github.com/gemilepus">
-  <img alt="gemilepus's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=gemilepus&bg_color=0D1117&color=FFFFFF&line=63F7C2&point=FFFFFF&hide_border=true" />
-</a>
+[![gemilepus's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=gemilepus&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
