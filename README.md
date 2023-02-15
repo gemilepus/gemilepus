@@ -26,6 +26,6 @@ Here are some ideas to get you started:
 
 <br>
 
-[![gemilepus's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=gemilepus&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- [![gemilepus's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=gemilepus&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
 
