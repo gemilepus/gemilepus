@@ -37,8 +37,9 @@ Here are some ideas to get you started:
 [![gemilepus's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=gemilepus&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 -->
 
+<!--
  ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=PHP&logoColor=fff) 
  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=000)
  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=fff)
  ![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=fff)
-
+-->
