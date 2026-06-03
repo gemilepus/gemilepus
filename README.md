@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
 <h3 align="center">My github profile stastictics.</h2>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -25,9 +26,16 @@ Here are some ideas to get you started:
         <img title="gemilepus stats" alt="gemilepus's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=gemilepus&theme=dark&hide_border=true&stroke=63F7C2&ring=63F7C2&fire=63F7C2&currStreakLabel=63F7C2&date_format=%5BY.%5Dn.j" />
     </a>
 </p>
+-->
+
 <!--
 <br>
 
 [![gemilepus's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=gemilepus&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 -->
+
+ ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=PHP&logoColor=fff) 
+ ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=000)
+ ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=fff)
+ ![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=fff)
 
